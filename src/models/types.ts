@@ -64,3 +64,4 @@ export interface BaseStrategyConfig {
   };
   params: Record<string, any>; 
 }
+
